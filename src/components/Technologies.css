@@ -1,0 +1,41 @@
+/* src/components/Technologies.css */
+.technologies {
+  padding: 20px;
+  margin: 20px auto;
+  max-width: 800px;
+  background-color: #000;
+  border: 2px solid #00FF00;
+  box-shadow: 0 0 10px #00FF00;
+  text-align: center;
+}
+
+.technologies h2 {
+  font-size: 2rem;
+  color: #00FF00;
+  margin-bottom: 20px;
+}
+
+.tech-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.tech-item {
+  margin: 10px;
+  text-align: center;
+}
+
+.tech-item img {
+  width: 60px;
+  height: 60px;
+  margin-bottom: 10px;
+}
+.tech-item img:hover{
+    transform: scale(1.05);
+}
+
+.tech-item p {
+  font-size: 1rem;
+  color: #00FF00;
+}

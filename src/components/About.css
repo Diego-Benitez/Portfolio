@@ -1,0 +1,23 @@
+.about {
+    padding: 20px;
+    margin: 20px auto;
+    max-width: 800px;
+    background-color: #000;
+    border: 2px solid #00FF00;
+    border-radius:1ch;
+    box-shadow: 0 0 10px #00FF00;
+  }
+  
+  .about h2 {
+    font-size: 2rem;
+    color: #00FF00;
+    margin-bottom: 10px;
+  }
+  
+  .about p {
+    font-size: 1rem;
+    color: #00FF00;
+    line-height: 1.5;
+    text-align: justify;
+  }
+  
