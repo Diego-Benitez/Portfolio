@@ -2,8 +2,8 @@
     padding: 20px;
     margin: 20px auto;
     max-width: 800px;
-    background-color: #000;
-    border: 2px solid #00FF00;
+    background-color: rgba(0, 0, 0, 0.5);
+    
     border-radius:1ch;
     box-shadow: 0 0 10px #00FF00;
   }
