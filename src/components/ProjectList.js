@@ -5,7 +5,7 @@ const projects = [
   {
     title: 'LAST STAND',
     description: 'Descripción del Proyecto 1',
-    image: '/assets/images/lasst.jpg',
+    image: '/assets/images/last.png',
     video: '/assets/videos/lastStandVideo.mp4',
   },
   {
@@ -18,7 +18,7 @@ const projects = [
     title: 'HOME BANKING "ITBANK" ',
     description: 'Descripción del Proyecto 1',
     image: '/assets/images/logo-itbank.png',
-    video: '/assets/videos/lastStandVideo.mp4',
+    video: '/assets/videos/videoItbank.mp4',
   },
   // Agrega más proyectos según sea necesario
 ];

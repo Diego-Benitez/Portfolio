@@ -2,21 +2,20 @@
     padding: 20px;
     margin: 20px auto;
     max-width: 800px;
-    background-color: rgba(0, 0, 0, 0.5);
-    
+    background-color: rgba(0, 0, 0, 0.2); 
     border-radius:1ch;
-    box-shadow: 0 0 10px #00FF00;
+    box-shadow: 0 0 10px #000000;
   }
   
   .about h2 {
     font-size: 2rem;
-    color: #00FF00;
+    color: #000000;
     margin-bottom: 10px;
   }
   
   .about p {
     font-size: 1rem;
-    color: #00FF00;
+    color: #000000;
     line-height: 1.5;
     text-align: justify;
   }

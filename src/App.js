@@ -13,7 +13,6 @@ function App() {
       <Header />
       <main>
         <About />
-        
         <ProjectList />
         <Technologies />
         <DownloadCV />
